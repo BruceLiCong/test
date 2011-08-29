@@ -1,0 +1,7 @@
+#!/usr/bin/python
+
+def problem4():
+
+    return 1
+    
+print problem4()
