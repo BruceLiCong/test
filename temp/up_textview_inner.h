@@ -1,7 +1,7 @@
 #ifndef _UP_TEXTVIEW_INNER_H_
 #define _UP_TEXTVIEW_INNER_H_
 
-#include "up_APi.h"
+#include "up_APi.h" //test
 #include "up_app_ext.h"
 
 #define UP_TEXTVIEW_DEBUG_FLAG 1
